@@ -1,0 +1,136 @@
+#!/usr/bin/env bash
+
+# Mode DEBUG
+#set -x
+
+# VARS
+DIR_CONF=$HOME/.config/blogtxt
+FILE_CONF=$DIR_CONF/config
+FILE_BLOG=$HOME/blog.txt
+CURRENT_DATETIME=`date +%FT%T`
+ARG_VIEW=0
+ARG_EDIT=0
+ARG_CATEGORY=0
+ARG_URL=0
+ARG_DESCRIPTION=0
+
+# FUNCTIONS
+header(){
+    cat << EOF >> $FILE_BLOG
+# blog.txt
+# Un blog minimaliste et léger pour garder et partager des sites web intéressants.
+
+DATE                    CATEGORY        URL : DESCRIPTION
+==========================================================================
+EOF
+}
+
+view(){
+    less $FILE_BLOG
+}
+
+tweet(){
+    if [ ${#CATEGORY} -gt 8 ]; then
+        echo -e "$CURRENT_DATETIME\t$CATEGORY\t$URL : $DESCRIPTION" >> $FILE_BLOG
+    else 
+        echo -e "$CURRENT_DATETIME\t$CATEGORY\t\t$URL : $DESCRIPTION" >> $FILE_BLOG
+    fi
+}
+
+init(){
+    if [ ! -e $DIR_CONF ]; then
+        mkdir -p $DIR_CONF
+        echo -e "FILE_BLOG=$FILE_BLOG" > $FILE_CONF
+    fi
+
+    source $FILE_CONF
+
+    if [ ! -f $FILE_BLOG ]; then
+        header
+    fi
+}
+
+edit_conf(){
+    if type nvim > /dev/null 2>&1; then nvim $FILE_CONF;
+    elif type vim > /dev/null 2>&1; then vim $FILE_CONF;
+    elif type vi > /dev/null 2>&1; then vi $FILE_CONF; fi
+}
+
+check_args(){
+    if [ $ARG_EDIT -eq 0 ] && [ $ARG_CATEGORY -eq 0 ] && [ $ARG_URL -eq 0 ] && [ $ARG_DESCRIPTION -eq 0 ] && [ $ARG_VIEW -eq 0 ]; then
+        usage
+    fi
+    # If EDIT
+    if [ $ARG_EDIT -eq 1 ] && ([ $ARG_CATEGORY -eq 1 ] || [ $ARG_URL -eq 1 ] || [ $ARG_DESCRIPTION -eq 1 ] || [ $ARG_VIEW -eq 1 ]); then
+        usage
+    fi
+    # If VIEW
+    if ([ $ARG_EDIT -eq 1 ] || [ $ARG_CATEGORY -eq 1 ] || [ $ARG_URL -eq 1 ] || [ $ARG_DESCRIPTION -eq 1 ]) && [ $ARG_VIEW -eq 1 ]; then
+        usage
+    fi
+    # If TWEET
+    if [ $ARG_EDIT -eq 1 ] || ([ $ARG_CATEGORY -eq 1 ] && [ $ARG_URL -eq 1 ]) && [ $ARG_VIEW -eq 1 ]; then
+        usage
+    fi
+}
+
+# ARGS
+usage(){
+    echo -e "View blog: "
+    echo -e "$0 -l"
+    echo -e "Edit configuration : "
+    echo -e "$0 -e"
+    echo -e "Add URL in the blog :"
+    echo -e "$0 -c <CATEGORY> -u <URL> -m <DESCRIPTION>"
+    exit 1
+}
+
+while getopts "lec:u:m:" option
+do
+    case $option in
+        l ) 
+            ARG_VIEW=1
+            ;;
+        e ) 
+            ARG_EDIT=1
+            ;;
+        c ) 
+            ARG_CATEGORY=1
+            CATEGORY=$OPTARG
+            ;;
+        u ) 
+            ARG_URL=1
+            URL=$OPTARG
+            ;;
+        m ) 
+            ARG_DESCRIPTION=1
+            DESCRIPTION=$OPTARG
+            ;;
+       \? ) 
+            usage
+            ;;
+        * ) 
+            usage
+            ;;
+    esac
+done
+shift $(( OPTIND - 1 ))
+
+# PROCESS
+
+# Start init
+init
+check_args
+
+if [ $ARG_VIEW -eq 1 ]; then
+    view
+fi
+
+if [ $ARG_EDIT -eq 1 ]; then
+    edit_conf
+fi
+
+if [ ! -z "$CATEGORY" ] || [ ! -z "$URL" ]; then
+    tweet
+fi
+
