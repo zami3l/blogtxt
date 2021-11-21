@@ -1,0 +1,8 @@
+# blog.txt
+# Un blog minimaliste et léger pour garder et partager des sites web intéressants.
+
+DATE                    CATEGORY        URL : DESCRIPTION
+==========================================================================
+2021-11-21T18:25:22	dev		https://vimebook.com/fr : Un ebook pour commencer avec Vim
+2021-11-21T18:30:09	system		https://webzine.puffy.cafe/ : Webzine sur OpenBSD réalisé par des bénévoles passionnés
+2021-11-21T18:36:07	cybersecurity	http://www.phrack.org/ : Webzine réalisé par ou pour des hackers
