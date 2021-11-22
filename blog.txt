@@ -6,3 +6,6 @@ DATE                    CATEGORY        URL : DESCRIPTION
 2021-11-21T18:25:22	dev		https://vimebook.com/fr : Un ebook pour commencer avec Vim
 2021-11-21T18:30:09	system		https://webzine.puffy.cafe/ : Webzine sur OpenBSD réalisé par des bénévoles passionnés
 2021-11-21T18:36:07	cybersecurity	http://www.phrack.org/ : Webzine réalisé par ou pour des hackers
+2021-11-21T22:30:47	cybersecurity	https://tryhackme.com/ : Plateforme pour apprendre la cybersécurité
+2021-11-21T22:31:20	cybersecurity	https://www.root-me.org/ : Plateforme pour apprendre la cybersécurité
+2021-11-22T21:40:49	system		https://unixsheikh.com/ : Articles et tutoriels sur BSD et GNU/Linux
