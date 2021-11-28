@@ -10,3 +10,4 @@ DATE                    CATEGORY        URL : DESCRIPTION
 2021-11-21T22:31:20	cybersecurity	https://www.root-me.org/ : Plateforme pour apprendre la cybersécurité
 2021-11-22T21:40:49	system		https://unixsheikh.com/ : Articles et tutoriels sur BSD et GNU/Linux
 2021-11-23T23:06:57	other		https://piradex.org/ : Site de partages de sites, blogs, wiki, etc..
+2021-11-28T22:37:48	other		https://serveur410.com/ : Les passages secrets du web
