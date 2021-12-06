@@ -12,3 +12,5 @@ DATE                    CATEGORY        URL : DESCRIPTION
 2021-11-23T23:06:57	other		https://piradex.org/ : Site de partages de sites, blogs, wiki, etc..
 2021-11-28T22:37:48	other		https://serveur410.com/ : Les passages secrets du web
 2021-11-29T22:21:35	network		https://openbsdrouterguide.net/ : Guide routeur OpenBSD
+2021-12-01T21:08:04	system		https://obsd.solutions/en/blog/ : Tutoriel upgrade OpenBSD
+2021-12-06T22:27:54	system		https://si3t.ch/ah/fr/ : Plusieurs tutos sur OpenBSD
