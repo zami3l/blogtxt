@@ -15,3 +15,5 @@ DATE                    CATEGORY        URL : DESCRIPTION
 2021-12-01T21:08:04	system		https://obsd.solutions/en/blog/ : Tutoriel upgrade OpenBSD
 2021-12-06T22:27:54	system		https://si3t.ch/ah/fr/ : Plusieurs tutos sur OpenBSD
 2021-12-08T19:25:41	network		https://hpd.gasmi.net/ : Décodeur de paquets HEX
+2021-12-10T23:24:30	other		https://www.curiositry.com/blog.txt : Blog en txt
+2021-12-10T23:30:08	other		https://openbsd.amsterdam/ : Hébergeur VPS de machines OpenBSD
