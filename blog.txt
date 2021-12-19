@@ -18,3 +18,4 @@ DATE                    CATEGORY        URL : DESCRIPTION
 2021-12-10T23:24:30	other		https://www.curiositry.com/blog.txt : Blog en txt
 2021-12-10T23:30:08	other		https://openbsd.amsterdam/ : Hébergeur VPS de machines OpenBSD
 2021-12-15T23:38:40	cybersecurity	https://gtfobins.github.io/ : Exploitation binaire unix
+2021-12-19T23:17:08	system		https://wiki.evolix.org/ : Excellent wiki d'une société Open Source
