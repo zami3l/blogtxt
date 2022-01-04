@@ -20,3 +20,4 @@ DATE                    CATEGORY        URL : DESCRIPTION
 2021-12-15T23:38:40	cybersecurity	https://gtfobins.github.io/ : Exploitation binaire unix
 2021-12-19T23:17:08	system		https://wiki.evolix.org/ : Excellent wiki d'une société Open Source
 2021-12-20T22:25:40	other		https://ilearned.eu/ : Blog collaboratif vulgarisant
+2022-01-04T22:01:09	other		https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html : Représentation du système solaire en Pixel
