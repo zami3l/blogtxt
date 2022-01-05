@@ -22,3 +22,4 @@ DATE                    CATEGORY        URL : DESCRIPTION
 2021-12-20T22:25:40	other		https://ilearned.eu/ : Blog collaboratif vulgarisant
 2022-01-04T22:01:09	other		https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html : Représentation du système solaire en Pixel
 2022-01-04T22:15:28	network		http://irp.nain-t.net/doku.php : Explication détaillée sur les principes des réseaux informatiques
+2022-01-05T23:30:16	other		https://codeberg.org/ : Similaire à GitHub, géré par une assoc à but non lucratif
