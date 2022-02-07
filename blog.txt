@@ -26,3 +26,5 @@ DATE                    CATEGORY        URL : DESCRIPTION
 2022-01-18T23:08:05	cyber		https://bettercrypto.org/ : Guide de configurations en mode Hardening
 2022-02-04T18:29:58	system		https://www.romanzolotarev.com/ : Articles et tutoriels sur BSD
 2022-02-04T18:33:53	other		https://www.chatons.org/ : Collectif libre
+2022-02-07T23:30:09	soft		https://mmonit.com/monit/ : Utiliaire de surveillance léger
+2022-02-07T23:38:34	book		https://nostarch.com/pf3 : Livre sur PF d'OpenBSD
