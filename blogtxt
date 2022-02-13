@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Mode DEBUG
-#set -x
+set -x
 
 # VARS
 DIR_CONF=$HOME/.config/blogtxt
@@ -11,6 +11,7 @@ CURRENT_DATETIME=`date +%FT%T`
 ARG_VIEW=0
 ARG_EDIT=0
 ARG_CATEGORY=0
+ARG_TYPE=0
 ARG_URL=0
 ARG_DESCRIPTION=0
 
@@ -20,8 +21,8 @@ header(){
 # blog.txt
 # Un blog minimaliste et léger pour garder et partager des sites web intéressants.
 
-DATE                    CATEGORY        URL : DESCRIPTION
-==========================================================================
+DATE                    CATEGORY/TYPE           URL : DESCRIPTION
+===========================================================================================
 EOF
 }
 
@@ -30,10 +31,10 @@ view(){
 }
 
 tweet(){
-    if [ ${#CATEGORY} -gt 8 ]; then
-        echo -e "$CURRENT_DATETIME\t$CATEGORY\t$URL : $DESCRIPTION" >> $FILE_BLOG
-    else 
-        echo -e "$CURRENT_DATETIME\t$CATEGORY\t\t$URL : $DESCRIPTION" >> $FILE_BLOG
+    if [ $((${#CATEGORY} + ${#TYPE})) -gt 14 ]; then
+        echo -e "$CURRENT_DATETIME\t$CATEGORY/$TYPE\t$URL : $DESCRIPTION" >> $FILE_BLOG
+    else
+        echo -e "$CURRENT_DATETIME\t$CATEGORY/$TYPE\t\t$URL : $DESCRIPTION" >> $FILE_BLOG
     fi
 }
 
@@ -61,15 +62,15 @@ check_args(){
         usage
     fi
     # If EDIT
-    if [ $ARG_EDIT -eq 1 ] && ([ $ARG_CATEGORY -eq 1 ] || [ $ARG_URL -eq 1 ] || [ $ARG_DESCRIPTION -eq 1 ] || [ $ARG_VIEW -eq 1 ]); then
+    if [ $ARG_EDIT -eq 1 ] && ([ $ARG_CATEGORY -eq 1 ] || [ $ARG_TYPE -eq 1 ] || [ $ARG_URL -eq 1 ] || [ $ARG_DESCRIPTION -eq 1 ] || [ $ARG_VIEW -eq 1 ]); then
         usage
     fi
     # If VIEW
-    if ([ $ARG_EDIT -eq 1 ] || [ $ARG_CATEGORY -eq 1 ] || [ $ARG_URL -eq 1 ] || [ $ARG_DESCRIPTION -eq 1 ]) && [ $ARG_VIEW -eq 1 ]; then
+    if ([ $ARG_EDIT -eq 1 ] || [ $ARG_CATEGORY -eq 1 ] || [ $ARG_TYPE -eq 1 ] || [ $ARG_URL -eq 1 ] || [ $ARG_DESCRIPTION -eq 1 ]) && [ $ARG_VIEW -eq 1 ]; then
         usage
     fi
     # If TWEET
-    if [ $ARG_EDIT -eq 1 ] || ([ $ARG_CATEGORY -eq 1 ] && [ $ARG_URL -eq 1 ]) && [ $ARG_VIEW -eq 1 ]; then
+    if [ $ARG_EDIT -eq 1 ] || ([ $ARG_CATEGORY -eq 1 ] && [ $ARG_TYPE -eq 1 ] && [ $ARG_URL -eq 1 ]) && [ $ARG_VIEW -eq 1 ]; then
         usage
     fi
 }
@@ -81,11 +82,11 @@ usage(){
     echo -e "Edit configuration : "
     echo -e "$0 -e"
     echo -e "Add URL in the blog :"
-    echo -e "$0 -c <CATEGORY> -u <URL> -m <DESCRIPTION>"
+    echo -e "$0 -c <CATEGORY> -t <TYPE> -u <URL> -m <DESCRIPTION>"
     exit 1
 }
 
-while getopts "lec:u:m:" option
+while getopts "lec:t:u:m:" option
 do
     case $option in
         l ) 
@@ -97,6 +98,10 @@ do
         c ) 
             ARG_CATEGORY=1
             CATEGORY=$OPTARG
+            ;;
+        t ) 
+            ARG_TYPE=1
+            TYPE=$OPTARG
             ;;
         u ) 
             ARG_URL=1
