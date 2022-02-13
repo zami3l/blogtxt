@@ -1,30 +1,33 @@
 # blog.txt
 # Un blog minimaliste et léger pour garder et partager des sites web intéressants.
 
-DATE                    CATEGORY        URL : DESCRIPTION
-==========================================================================
-2021-11-21T18:25:22	dev		https://vimebook.com/fr : Un ebook pour commencer avec Vim
-2021-11-21T18:30:09	system		https://webzine.puffy.cafe/ : Webzine sur OpenBSD réalisé par des bénévoles passionnés
-2021-11-21T18:36:07	cyber		http://www.phrack.org/ : Webzine réalisé par ou pour des hackers
-2021-11-21T22:30:47	cyber		https://tryhackme.com/ : Plateforme pour apprendre la cybersécurité
-2021-11-21T22:31:20	cyber		https://www.root-me.org/ : Plateforme pour apprendre la cybersécurité
-2021-11-22T21:40:49	system		https://unixsheikh.com/ : Articles et tutoriels sur BSD et GNU/Linux
-2021-11-23T23:06:57	other		https://piradex.org/ : Site de partages de sites, blogs, wiki, etc..
-2021-11-28T22:37:48	other		https://serveur410.com/ : Les passages secrets du web
-2021-11-29T22:21:35	network		https://openbsdrouterguide.net/ : Guide routeur OpenBSD
-2021-12-01T21:08:04	system		https://obsd.solutions/en/blog/ : Tutoriel upgrade OpenBSD
-2021-12-06T22:27:54	system		https://si3t.ch/ah/fr/ : Plusieurs tutos sur OpenBSD
-2021-12-08T19:25:41	network		https://hpd.gasmi.net/ : Décodeur de paquets HEX
-2021-12-10T23:24:30	other		https://www.curiositry.com/blog.txt : Blog en txt
-2021-12-10T23:30:08	other		https://openbsd.amsterdam/ : Hébergeur VPS de machines OpenBSD
-2021-12-15T23:38:40	cyber		https://gtfobins.github.io/ : Exploitation binaire unix
-2021-12-19T23:17:08	system		https://wiki.evolix.org/ : Excellent wiki d'une société Open Source
-2021-12-20T22:25:40	other		https://ilearned.eu/ : Blog collaboratif vulgarisant
-2022-01-04T22:01:09	other		https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html : Représentation du système solaire en Pixel
-2022-01-04T22:15:28	network		http://irp.nain-t.net/doku.php : Explication détaillée sur les principes des réseaux informatiques
-2022-01-05T23:30:16	other		https://codeberg.org/ : Similaire à GitHub, géré par une assoc à but non lucratif
-2022-01-18T23:08:05	cyber		https://bettercrypto.org/ : Guide de configurations en mode Hardening
-2022-02-04T18:29:58	system		https://www.romanzolotarev.com/ : Articles et tutoriels sur BSD
-2022-02-04T18:33:53	other		https://www.chatons.org/ : Collectif libre
-2022-02-07T23:30:09	soft		https://mmonit.com/monit/ : Utiliaire de surveillance léger
-2022-02-07T23:38:34	book		https://nostarch.com/pf3 : Livre sur PF d'OpenBSD
+DATE                    CATEGORY/TYPE           URL : DESCRIPTION
+===========================================================================================
+2021-11-21T18:25:22	dev/book		https://vimebook.com/fr : Un ebook pour commencer avec Vim
+2021-11-21T18:30:09	system/webzine		https://webzine.puffy.cafe/ : Webzine sur OpenBSD réalisé par des bénévoles passionnés
+2021-11-21T18:36:07	cyber/webzine		http://www.phrack.org/ : Webzine réalisé par ou pour des hackers
+2021-11-21T22:30:47	cyber/webzine		https://tryhackme.com/ : Plateforme pour apprendre la cybersécurité
+2021-11-21T22:31:20	cyber/learn		https://www.root-me.org/ : Plateforme pour apprendre la cybersécurité
+2021-11-22T21:40:49	system/blog		https://unixsheikh.com/ : Articles et tutos sur BSD et GNU/Linux
+2021-11-23T23:06:57	other/blog		https://piradex.org/ : Site de partages de sites, blogs, wiki, etc..
+2021-11-28T22:37:48	other/blog		https://serveur410.com/ : Les passages secrets du web
+2021-11-29T22:21:35	network/tuto		https://openbsdrouterguide.net/ : Guide routeur OpenBSD
+2021-12-01T21:08:04	system/tuto		https://obsd.solutions/en/blog/ : Tutoriel upgrade OpenBSD
+2021-12-06T22:27:54	system/tuto		https://si3t.ch/ah/fr/ : Plusieurs tutos sur OpenBSD
+2021-12-08T19:25:41	network/tools		https://hpd.gasmi.net/ : Décodeur de paquets HEX
+2021-12-10T23:24:30	other/blog		https://www.curiositry.com/blog.txt : Blog en txt
+2021-12-10T23:30:08	other/hosting		https://openbsd.amsterdam/ : Hébergeur VPS de machines OpenBSD
+2021-12-15T23:38:40	cyber/tools		https://gtfobins.github.io/ : Exploitation binaire unix
+2021-12-19T23:17:08	system/wiki		https://wiki.evolix.org/ : Excellent wiki d'une société Open Source
+2021-12-20T22:25:40	other/blog		https://ilearned.eu/ : Blog collaboratif vulgarisant
+2022-01-04T22:01:09	other/web		https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html : Représentation du système solaire en Pixel
+2022-01-04T22:15:28	network/tuto		http://irp.nain-t.net/doku.php : Explication détaillée sur les principes des réseaux informatiques
+2022-01-05T23:30:16	other/hosting		https://codeberg.org/ : Similaire à GitHub, géré par une assoc à but non lucratif
+2022-01-18T23:08:05	cyber/wiki		https://bettercrypto.org/ : Guide de configurations en mode Hardening
+2022-02-04T18:29:58	system/blog		https://www.romanzolotarev.com/ : Articles et tutos sur BSD
+2022-02-04T18:33:53	other/web		https://www.chatons.org/ : Collectif libre
+2022-02-07T23:30:09	system/soft		https://mmonit.com/monit/ : Utiliaire de surveillance léger
+2022-02-07T23:38:34	network/book		https://nostarch.com/pf3 : Livre sur PF d'OpenBSD
+2022-02-13T20:06:59	other/blog		https://lord.re/ : Blog sur divers sujets
+2022-02-13T20:10:59	other/hosting		https://lgp-corp.fr/ : Hébergeur VPS
+2022-02-13T23:34:04	system/blog		https://it-notes.dragas.net/ : Blog sur BSD et GNU/Linux
