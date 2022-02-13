@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Mode DEBUG
-set -x
+#set -x
 
 # VARS
 DIR_CONF=$HOME/.config/blogtxt
