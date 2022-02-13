@@ -31,3 +31,4 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2022-02-13T20:06:59	other/blog		https://lord.re/ : Blog sur divers sujets
 2022-02-13T20:10:59	other/hosting		https://lgp-corp.fr/ : Hébergeur VPS
 2022-02-13T23:34:04	system/blog		https://it-notes.dragas.net/ : Blog sur BSD et GNU/Linux
+2022-02-14T00:21:38	other/soft		https://www.privacytools.io/ : Services et outils respectueux de la vie privée
