@@ -19,7 +19,7 @@ ARG_DESCRIPTION=0
 header(){
     cat << EOF >> $FILE_BLOG
 # blog.txt
-# Un blog minimaliste et léger pour garder et partager des sites web intéressants.
+# Un blog minimaliste et léger pour garder et partager mes trouvailles.
 
 DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 ===========================================================================================
