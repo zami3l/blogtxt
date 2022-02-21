@@ -32,3 +32,5 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2022-02-13T20:10:59	other/hosting		https://lgp-corp.fr/ : Hébergeur VPS
 2022-02-13T23:34:04	system/blog		https://it-notes.dragas.net/ : Blog sur BSD et GNU/Linux
 2022-02-14T00:21:38	other/soft		https://www.privacytools.io/ : Services et outils respectueux de la vie privée
+2022-02-19T15:34:05	system/forum		https://www.unitedbsd.com/ : Forum pour les systèmes *BSD
+2022-02-21T23:03:29	system/article		https://ilearned.eu/initramfs.html : Article sur l'initramfs
