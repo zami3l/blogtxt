@@ -34,3 +34,4 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2022-02-14T00:21:38	other/soft		https://www.privacytools.io/ : Services et outils respectueux de la vie privée
 2022-02-19T15:34:05	system/forum		https://www.unitedbsd.com/ : Forum pour les systèmes *BSD
 2022-02-21T23:03:29	system/article		https://ilearned.eu/initramfs.html : Article sur l'initramfs
+2022-02-26T22:48:55	system/wiki		https://terminalroot.com/list-of-freebsd-commands-by-category/ : Cheatsheet sur les commandes FreeBSD
