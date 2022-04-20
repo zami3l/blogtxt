@@ -36,3 +36,9 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2022-02-21T23:03:29	system/article		https://ilearned.eu/initramfs.html : Article sur l'initramfs
 2022-02-26T22:48:55	system/wiki		https://terminalroot.com/list-of-freebsd-commands-by-category/ : Cheatsheet sur les commandes FreeBSD
 2022-03-23T23:28:58	other/blog		https://iampox.com/blog/utiliser-les-reseaux-sociaux-sans-compromettre-sa-vie-privee : Alternative pour les réseaux sociaux
+2022-04-20T23:14:06	system/article		https://rubenerd.com/my-first-prod-encrypted-openzfs-pool/ : Comparaison FreeBSD GELI vs OpenZFS encrypt
+2022-04-20T23:16:42	system/tuto		https://borretti.me/article/freebsd-zfs-x11-laptop : Tutoriel installation FreeBSD avec ZFS et chiffrement GELI
+2022-04-20T23:20:13	system/tuto		https://sblog.tuto-craft.com/setup-un-serveur-mail-avec-opensmtpd-dovecot-rspamd-et-postgresql-sur-openbsd/ : Configuration serveur mail sur OpenBSD
+2022-04-20T23:20:45	system/tuto		https://poolp.org/posts/2019-12-23/mettre-en-place-un-serveur-de-mail-avec-opensmtpd-dovecot-et-rspamd/ : Configuration serveur mail sur OpenBSD
+2022-04-20T23:21:01	system/tuto		https://www.vultr.com/docs/an-openbsd-e-mail-server-using-opensmtpd-dovecot-rspamd-and-rainloop/ : Configuration serveur mail sur OpenBSD
+2022-04-20T23:27:28	system/tuto		https://doc.huc.fr.eu.org/fr/monitor/iblock-openbsd/ : Tutoriel honeypot TCP sur OpenBSD
