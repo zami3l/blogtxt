@@ -42,3 +42,6 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2022-04-20T23:20:45	system/tuto		https://poolp.org/posts/2019-12-23/mettre-en-place-un-serveur-de-mail-avec-opensmtpd-dovecot-et-rspamd/ : Configuration serveur mail sur OpenBSD
 2022-04-20T23:21:01	system/tuto		https://www.vultr.com/docs/an-openbsd-e-mail-server-using-opensmtpd-dovecot-rspamd-and-rainloop/ : Configuration serveur mail sur OpenBSD
 2022-04-20T23:27:28	system/tuto		https://doc.huc.fr.eu.org/fr/monitor/iblock-openbsd/ : Tutoriel honeypot TCP sur OpenBSD
+2022-05-11T21:46:18	cyber/article		https://www.openbsd.org/papers/bsdcan-signify.html : Article sur Signify d'OpenBSD
+2022-05-11T21:53:07	other/web		https://nyaa.si/ : Torrent spécial anime
+2022-05-11T21:54:59	system/tools		https://syncthing.net/ : Outil de synchronisation de fichiers
