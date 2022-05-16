@@ -45,3 +45,4 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2022-05-11T21:46:18	cyber/article		https://www.openbsd.org/papers/bsdcan-signify.html : Article sur Signify d'OpenBSD
 2022-05-11T21:53:07	other/web		https://nyaa.si/ : Torrent spécial anime
 2022-05-11T21:54:59	system/tools		https://syncthing.net/ : Outil de synchronisation de fichiers
+2022-05-16T21:58:35	system/tools		https://obsd.solutions/en/blog/2022/04/22/openbsd-upgrade-70-to-71/ : Upgrade OpenBSD 7.0 to 7.1
