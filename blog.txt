@@ -51,4 +51,4 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2022-05-26T22:39:55	system/tuto		https://www.romanzolotarev.com/git.html : Serveur git sur OpenBSD
 2022-05-26T22:48:38	other/web		https://www.nautiljon.com/ : Informations et Actualités sur les animes et mangas
 2022-05-26T22:57:19	cyber/tools		https://crackstation.net/ : Crackage de hash
-2022-05-26T23:01:00	cyber/tools		https://gchq.github.io/CyberChef/ : 
+2022-05-26T23:02:28	cyber/tools		https://gchq.github.io/CyberChef/ : Application web pour l'encodage, le hachage et le chiffrement
