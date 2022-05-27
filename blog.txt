@@ -52,3 +52,5 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2022-05-26T22:48:38	other/web		https://www.nautiljon.com/ : Informations et Actualités sur les animes et mangas
 2022-05-26T22:57:19	cyber/tools		https://crackstation.net/ : Crackage de hash
 2022-05-26T23:02:28	cyber/tools		https://gchq.github.io/CyberChef/ : Application web pour l'encodage, le hachage et le chiffrement
+2022-05-27T22:39:13	system/article		https://www.everythingcli.org/find-exec-vs-find-xargs/ : Article sur la différence entre find exec et find | xargs
+2022-05-28T00:06:40	cyber/web		https://hashcat.net/wiki/doku.php?id=example_hashes : Hashcat hash mode
