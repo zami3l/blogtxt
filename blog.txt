@@ -54,3 +54,8 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2022-05-26T23:02:28	cyber/tools		https://gchq.github.io/CyberChef/ : Application web pour l'encodage, le hachage et le chiffrement
 2022-05-27T22:39:13	system/article		https://www.everythingcli.org/find-exec-vs-find-xargs/ : Article sur la différence entre find exec et find | xargs
 2022-05-28T00:06:40	cyber/web		https://hashcat.net/wiki/doku.php?id=example_hashes : Hashcat hash mode
+2022-06-02T22:27:44	system/wiki		https://www.tubsta.com/2022/03/native-ipv6-with-openbsd-and-aussie-broadband/ : Exemple d'OpenBSD avec IPv6
+2022-06-02T22:37:28	system/wiki		https://www.kotfu.net/guides/redundant-openbsd-firewalls/ : Redondance de firewall avec OpenBSD
+2022-06-02T22:40:14	system/wiki		https://www.tubsta.com/2020/01/creating-a-chroot-in-openbsd/ : Creer un chroot sous OpenBSD
+2022-06-02T22:58:19	system/wiki		https://rexford.bio/w.p/2022/04/ : Suricata sur OpenBSD
+2022-06-02T23:07:32	network/tools		https://blog.ikuamike.io/posts/2021/netcat/ : Netcat le couteau suisse
