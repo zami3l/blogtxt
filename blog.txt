@@ -59,3 +59,5 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2022-06-02T22:40:14	system/wiki		https://www.tubsta.com/2020/01/creating-a-chroot-in-openbsd/ : Creer un chroot sous OpenBSD
 2022-06-02T22:58:19	system/wiki		https://rexford.bio/w.p/2022/04/ : Suricata sur OpenBSD
 2022-06-02T23:07:32	network/tools		https://blog.ikuamike.io/posts/2021/netcat/ : Netcat le couteau suisse
+2022-08-16T22:02:07	network/wiki		https://unfriendlygrinch.info/posts/openbsd-routing-tables-and-routing-domains/ : OpenBSD rTables et rDomains
+2022-08-16T22:05:17	network/article		https://bsdrp.net/documentation/examples/forwarding_performance_lab_of_a_pc_engines_apu2#forwarding_performance_lab_of_a_pc_engines_apu_2 : FreeBSD Forwarding performance lab of a PC Engines
