@@ -62,3 +62,4 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2022-08-16T22:02:07	network/wiki		https://unfriendlygrinch.info/posts/openbsd-routing-tables-and-routing-domains/ : OpenBSD rTables et rDomains
 2022-08-16T22:05:17	network/article		https://bsdrp.net/documentation/examples/forwarding_performance_lab_of_a_pc_engines_apu2#forwarding_performance_lab_of_a_pc_engines_apu_2 : FreeBSD Forwarding performance lab of a PC Engines
 2022-09-03T23:42:59	system/article		https://blog.garamotte.net/posts/2018/02/25/fr-passwords-management-with-pass.html : Article sur la gestion des mots de passe avec pass
+2022-11-07T21:57:36	system/article		https://vez.mrsk.me/freebsd-defaults.html : Article sur les défauts de FreeBSD et ces corrections partielles
