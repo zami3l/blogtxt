@@ -64,3 +64,7 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2022-09-03T23:42:59	system/article		https://blog.garamotte.net/posts/2018/02/25/fr-passwords-management-with-pass.html : Article sur la gestion des mots de passe avec pass
 2022-11-07T21:57:36	system/article		https://vez.mrsk.me/freebsd-defaults.html : Article sur les défauts de FreeBSD et ces corrections partielles
 2022-11-10T22:21:23	system/article		https://r4ven.fr/blog/hardening-tls/ : Quelques notions autour du TLS
+2022-11-20T21:32:06	other/article		https://matsukai.org/how-to-make-a-short-shinai-yourself-and-be-able-to-practice-kendo-in-any-space-with-a-low-ceiling/ : Article pour créer un shinai de taille réduite
+2023-03-18T22:08:24	system/article		https://latacora.micro.blog/2019/07/16/the-pgp-problem.html : Les lacunes de PGP
+2023-03-18T22:10:30	system/article		https://soatok.blog/2022/05/19/guidance-for-choosing-an-elliptic-curve-signature-algorithm-in-2022/ : Conseils pour choisir un algorithme de signature de courbe elliptique en 2022
+2023-03-19T21:28:19	network/article		https://chown.me/blog/getting-my-own-asn : Obtenir son prope ASN
