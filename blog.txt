@@ -73,3 +73,4 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2023-04-18T16:58:44	system/tuto		https://lafor.ge/nix-1/ : Premier pas avec Nix
 2023-04-18T22:49:31	system/tools		https://age-encryption.org/ : Outil de chiffrement
 2023-05-02T12:28:59	other/article		https://thehistoryoftheweb.com/ : L'histoire du WEB
+2023-05-12T13:19:56	system/web		https://bsd-hardware.info/ : Compatibilité matérielle pour BSD
