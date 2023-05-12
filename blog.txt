@@ -74,3 +74,5 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2023-04-18T22:49:31	system/tools		https://age-encryption.org/ : Outil de chiffrement
 2023-05-02T12:28:59	other/article		https://thehistoryoftheweb.com/ : L'histoire du WEB
 2023-05-12T13:19:56	system/web		https://bsd-hardware.info/ : Compatibilité matérielle pour BSD
+2023-05-12T21:23:21	system/tools		https://bounca.org/index.html : Web interface pour la gestion de certificats auto-signé
+2023-05-12T21:23:29	system/tools		https://www.authelia.com/ : Portail SSO
