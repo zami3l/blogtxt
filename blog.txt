@@ -76,3 +76,8 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2023-05-12T13:19:56	system/web		https://bsd-hardware.info/ : Compatibilité matérielle pour BSD
 2023-05-12T21:23:21	system/tools		https://bounca.org/index.html : Web interface pour la gestion de certificats auto-signé
 2023-05-12T21:23:29	system/tools		https://www.authelia.com/ : Portail SSO
+2023-05-21T22:29:18	network/wiki		https://www.22decembre.eu/fr/2016/05/28/openbsd-ipv6-router/ : OpenBSD et obtenir une @ IPv6
+2023-05-21T22:30:18	network/wiki		https://www.jwillikers.com/openbsd-ipv6 : OpenBSD et configuration IPv6
+2023-05-21T22:31:33	network/web		https://ipv6.he.net/certification/index.php : Certification IPv6
+2023-05-21T22:32:32	network/tuto		https://cisco.goffinet.org/ccna/ipv6/ : Tutoriel sur l'IPv6
+2023-05-21T22:36:31	network/tuto		https://lantian.pub/en/article/modify-website/dn42-experimental-network-2020.lantian/ : Tutoriel pour DN42
