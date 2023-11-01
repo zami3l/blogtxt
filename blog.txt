@@ -83,4 +83,11 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2023-05-21T22:36:31	network/tuto		https://lantian.pub/en/article/modify-website/dn42-experimental-network-2020.lantian/ : Tutoriel pour DN42
 2023-06-05T13:51:11	system/article		https://blog.cloudnativefolks.org/ebpf-for-cybersecurity-part-1 : Explication détaillée sur le fonctionnement de eBPF
 2023-07-07T23:02:03	other/article		https://digdeeper.neocities.org/articles/email : Avis sur les différents services emails
-2023-07-19T21:42:13	storage/		https://jro.io/truenas/openzfs/ : Excellent blog sur ZFS
+2023-07-19T21:42:13	storage/wiki		https://jro.io/truenas/openzfs/ : Excellent blog sur ZFS
+2023-11-01T16:40:34	system/tools		https://mfsbsd.vx.sk/ : FreeBSD ramdisk
+2023-11-01T16:42:40	system/wiki		https://www.tumfatig.net/2023/using-openbsd-relayd8-as-an-application-layer-gateway/ : Utilisation de relayd d'OpenBSD
+2023-11-01T16:44:12	system/tools		https://tomscii.sig7.se/umon/ : Minimal monitoring
+2023-11-01T16:46:35	storage/wiki		https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/ : Notes sur ZFS
+2023-11-01T16:47:49	cyber/tools		https://cisofy.com/lynis/ : Outil pour auditer la sécurité sous Linux et Unix
+2023-11-01T16:49:08	network/tuto		https://rob-turner.net/post/vx-lan/ : VXlan avec wireguard
+2023-11-01T16:51:32	system/article		http://www.paritybit.ca/blog/migrating-from-nginx-to-openbsd-httpd-and-relayd : Migration nginx vers relayd + http OpenBSD
