@@ -91,3 +91,6 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2023-11-01T16:47:49	cyber/tools		https://cisofy.com/lynis/ : Outil pour auditer la sécurité sous Linux et Unix
 2023-11-01T16:49:08	network/tuto		https://rob-turner.net/post/vx-lan/ : VXlan avec wireguard
 2023-11-01T16:51:32	system/article		http://www.paritybit.ca/blog/migrating-from-nginx-to-openbsd-httpd-and-relayd : Migration nginx vers relayd + http OpenBSD
+2023-11-30T15:44:19	system/article		https://rot256.dev/post/pass/ : Article sur les problèmes de pass avec gpg
+2023-11-30T15:45:43	cyber/wiki		https://anonymousplanet.org/ : Guide sur l'anonymat
+2023-11-30T15:48:39	network/blog		https://www.jasonvanpatten.com/ : Blog sur FreeBSD (Fib, BGP, Jail)
