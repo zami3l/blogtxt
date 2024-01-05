@@ -94,3 +94,4 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2023-11-30T15:44:19	system/article		https://rot256.dev/post/pass/ : Article sur les problèmes de pass avec gpg
 2023-11-30T15:45:43	cyber/wiki		https://anonymousplanet.org/ : Guide sur l'anonymat
 2023-11-30T15:48:39	network/blog		https://www.jasonvanpatten.com/ : Blog sur FreeBSD (Fib, BGP, Jail)
+2024-01-05T22:00:44	other/web		http://data.cquest.org/ : Données publiques
