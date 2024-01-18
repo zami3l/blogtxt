@@ -95,3 +95,5 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2023-11-30T15:45:43	cyber/wiki		https://anonymousplanet.org/ : Guide sur l'anonymat
 2023-11-30T15:48:39	network/blog		https://www.jasonvanpatten.com/ : Blog sur FreeBSD (Fib, BGP, Jail)
 2024-01-05T22:00:44	other/web		http://data.cquest.org/ : Données publiques
+2024-01-18T20:48:05	other/web		https://www.peppercarrot.com/fr/ : BD libre et open source
+2024-01-18T20:53:08	system/tools		https://forgejo.org/ : Fork de Gitea
