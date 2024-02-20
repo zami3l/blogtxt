@@ -98,3 +98,4 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2024-01-18T20:48:05	other/web		https://www.peppercarrot.com/fr/ : BD libre et open source
 2024-01-18T20:53:08	system/tools		https://forgejo.org/ : Fork de Gitea
 2024-01-22T23:00:30	other/web		https://sdf.org/ : SDF Public Access UNIX System
+2024-02-20T21:20:30	other/article		https://www.abortretry.fail/p/the-berkley-software-distribution : Histoire de BSD
