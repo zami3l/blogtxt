@@ -100,3 +100,4 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2024-01-22T23:00:30	other/web		https://sdf.org/ : SDF Public Access UNIX System
 2024-02-20T21:20:30	other/article		https://www.abortretry.fail/p/the-berkley-software-distribution : Histoire de BSD
 2024-03-31T22:12:26	system/tools		https://bhyve.npulse.net/ : WebAdmin pour Bhyve
+2024-04-29T22:08:33	system/article		https://blog.levassb.ovh/post/zfs/ : Article ZFS pour un NAS
