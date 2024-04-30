@@ -101,3 +101,4 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2024-02-20T21:20:30	other/article		https://www.abortretry.fail/p/the-berkley-software-distribution : Histoire de BSD
 2024-03-31T22:12:26	system/tools		https://bhyve.npulse.net/ : WebAdmin pour Bhyve
 2024-04-29T22:08:33	system/article		https://blog.levassb.ovh/post/zfs/ : Article ZFS pour un NAS
+2024-04-30T08:08:01	system/article		https://techno.firenode.net/article.sh?id=d2016080413170150234 : Exemple de mise en place de ZFS
