@@ -105,3 +105,4 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2024-08-30T23:49:11	system/article		https://www.linuxembedded.fr/2020/11/namespaces-la-brique-de-base-des-conteneurs : Explication detaillees des namespaces
 2024-08-30T23:50:31	system/article		https://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html : Explorer les namespaces
 2024-08-30T23:55:16	system/article		https://email-comparison.as93.net/ : Comparaison des hebergeurs email
+2024-10-23T22:39:36	system/article		https://snork.ca/posts/2023-01-30-nftables-and-sets/ : nftables, iptables et sets
