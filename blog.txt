@@ -6,104 +6,105 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2021-11-21T18:25:22	dev/book		https://vimebook.com/fr : Un ebook pour commencer avec Vim
 2021-11-21T18:30:09	system/webzine		https://webzine.puffy.cafe/ : Webzine sur OpenBSD réalisé par des bénévoles passionnés
 2021-11-21T18:36:07	cyber/webzine		http://www.phrack.org/ : Webzine réalisé par ou pour des hackers
-2021-11-21T22:30:47	cyber/webzine		https://tryhackme.com/ : Plateforme pour apprendre la cybersécurité
-2021-11-21T22:31:20	cyber/learn		https://www.root-me.org/ : Plateforme pour apprendre la cybersécurité
+2021-11-21T22:30:47	cyber/training		https://tryhackme.com/ : Plateforme pour apprendre la cybersécurité
+2021-11-21T22:31:20	cyber/training		https://www.root-me.org/ : Plateforme pour apprendre la cybersécurité
 2021-11-22T21:40:49	system/blog		https://unixsheikh.com/ : Articles et tutos sur BSD et GNU/Linux
 2021-11-23T23:06:57	other/blog		https://piradex.org/ : Site de partages de sites, blogs, wiki, etc..
 2021-11-28T22:37:48	other/blog		https://serveur410.com/ : Les passages secrets du web
-2021-11-29T22:21:35	network/tuto		https://openbsdrouterguide.net/ : Guide routeur OpenBSD
-2021-12-01T21:08:04	system/tuto		https://obsd.solutions/en/blog/ : Tutoriel upgrade OpenBSD
-2021-12-06T22:27:54	system/tuto		https://si3t.ch/ah/fr/ : Plusieurs tutos sur OpenBSD
+2021-11-29T22:21:35	network/resources	https://openbsdrouterguide.net/ : Guide routeur OpenBSD
+2021-12-01T21:08:04	system/resources	https://obsd.solutions/en/blog/ : Tutoriel upgrade OpenBSD
+2021-12-06T22:27:54	system/resources	https://si3t.ch/ah/fr/ : Plusieurs tutos sur OpenBSD
 2021-12-08T19:25:41	network/tools		https://hpd.gasmi.net/ : Décodeur de paquets HEX
 2021-12-10T23:24:30	other/blog		https://www.curiositry.com/blog.txt : Blog en txt
 2021-12-10T23:30:08	other/hosting		https://openbsd.amsterdam/ : Hébergeur VPS de machines OpenBSD
 2021-12-15T23:38:40	cyber/tools		https://gtfobins.github.io/ : Exploitation binaire unix
-2021-12-19T23:17:08	system/wiki		https://wiki.evolix.org/ : Excellent wiki d'une société Open Source
-2021-12-20T22:25:40	other/blog		https://ilearned.eu/ : Blog collaboratif vulgarisant
-2022-01-04T22:01:09	other/web		https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html : Représentation du système solaire en Pixel
-2022-01-04T22:15:28	network/tuto		http://irp.nain-t.net/doku.php : Explication détaillée sur les principes des réseaux informatiques
+2021-12-19T23:17:08	system/resources	https://wiki.evolix.org/ : Excellent wiki d'une société Open Source
+2021-12-20T22:25:40	other/resources		https://ilearned.eu/ : Blog collaboratif vulgarisant
+2022-01-04T22:01:09	other/website		https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html : Représentation du système solaire en Pixel
+2022-01-04T22:15:28	network/resources	http://irp.nain-t.net/doku.php : Explication détaillée sur les principes des réseaux informatiques
 2022-01-05T23:30:16	other/hosting		https://codeberg.org/ : Similaire à GitHub, géré par une assoc à but non lucratif
-2022-01-18T23:08:05	cyber/wiki		https://bettercrypto.org/ : Guide de configurations en mode Hardening
-2022-02-04T18:29:58	system/blog		https://www.romanzolotarev.com/ : Articles et tutos sur BSD
-2022-02-04T18:33:53	other/web		https://www.chatons.org/ : Collectif libre
-2022-02-07T23:30:09	system/soft		https://mmonit.com/monit/ : Utiliaire de surveillance léger
+2022-01-18T23:08:05	cyber/resources		https://bettercrypto.org/ : Guide de configurations en mode Hardening
+2022-02-04T18:29:58	system/resources	https://www.romanzolotarev.com/ : Articles et tutos sur BSD
+2022-02-04T18:33:53	other/website		https://www.chatons.org/ : Collectif libre
+2022-02-07T23:30:09	system/tools		https://mmonit.com/monit/ : Utiliaire de surveillance léger
 2022-02-07T23:38:34	network/book		https://nostarch.com/pf3 : Livre sur PF d'OpenBSD
 2022-02-13T20:06:59	other/blog		https://lord.re/ : Blog sur divers sujets
 2022-02-13T20:10:59	other/hosting		https://lgp-corp.fr/ : Hébergeur VPS
 2022-02-13T23:34:04	system/blog		https://it-notes.dragas.net/ : Blog sur BSD et GNU/Linux
-2022-02-14T00:21:38	other/soft		https://www.privacytools.io/ : Services et outils respectueux de la vie privée
+2022-02-14T00:21:38	other/website		https://www.privacytools.io/ : Services et outils respectueux de la vie privée
 2022-02-19T15:34:05	system/forum		https://www.unitedbsd.com/ : Forum pour les systèmes *BSD
 2022-02-21T23:03:29	system/article		https://ilearned.eu/initramfs.html : Article sur l'initramfs
-2022-02-26T22:48:55	system/wiki		https://terminalroot.com/list-of-freebsd-commands-by-category/ : Cheatsheet sur les commandes FreeBSD
+2022-02-26T22:48:55	system/resources	https://terminalroot.com/list-of-freebsd-commands-by-category/ : Cheatsheet sur les commandes FreeBSD
 2022-03-23T23:28:58	other/blog		https://iampox.com/blog/utiliser-les-reseaux-sociaux-sans-compromettre-sa-vie-privee : Alternative pour les réseaux sociaux
 2022-04-20T23:14:06	system/article		https://rubenerd.com/my-first-prod-encrypted-openzfs-pool/ : Comparaison FreeBSD GELI vs OpenZFS encrypt
-2022-04-20T23:16:42	system/tuto		https://borretti.me/article/freebsd-zfs-x11-laptop : Tutoriel installation FreeBSD avec ZFS et chiffrement GELI
-2022-04-20T23:20:13	system/tuto		https://sblog.tuto-craft.com/setup-un-serveur-mail-avec-opensmtpd-dovecot-rspamd-et-postgresql-sur-openbsd/ : Configuration serveur mail sur OpenBSD
-2022-04-20T23:20:45	system/tuto		https://poolp.org/posts/2019-12-23/mettre-en-place-un-serveur-de-mail-avec-opensmtpd-dovecot-et-rspamd/ : Configuration serveur mail sur OpenBSD
-2022-04-20T23:21:01	system/tuto		https://www.vultr.com/docs/an-openbsd-e-mail-server-using-opensmtpd-dovecot-rspamd-and-rainloop/ : Configuration serveur mail sur OpenBSD
-2022-04-20T23:27:28	system/tuto		https://doc.huc.fr.eu.org/fr/monitor/iblock-openbsd/ : Tutoriel honeypot TCP sur OpenBSD
+2022-04-20T23:16:42	system/resources	https://borretti.me/article/freebsd-zfs-x11-laptop : Tutoriel installation FreeBSD avec ZFS et chiffrement GELI
+2022-04-20T23:20:13	system/resources	https://sblog.tuto-craft.com/setup-un-serveur-mail-avec-opensmtpd-dovecot-rspamd-et-postgresql-sur-openbsd/ : Configuration serveur mail sur OpenBSD
+2022-04-20T23:20:45	system/resources	https://poolp.org/posts/2019-12-23/mettre-en-place-un-serveur-de-mail-avec-opensmtpd-dovecot-et-rspamd/ : Configuration serveur mail sur OpenBSD
+2022-04-20T23:21:01	system/resources	https://www.vultr.com/docs/an-openbsd-e-mail-server-using-opensmtpd-dovecot-rspamd-and-rainloop/ : Configuration serveur mail sur OpenBSD
+2022-04-20T23:27:28	system/resources	https://doc.huc.fr.eu.org/fr/monitor/iblock-openbsd/ : Tutoriel honeypot TCP sur OpenBSD
 2022-05-11T21:46:18	cyber/article		https://www.openbsd.org/papers/bsdcan-signify.html : Article sur Signify d'OpenBSD
-2022-05-11T21:53:07	other/web		https://nyaa.si/ : Torrent spécial anime
+2022-05-11T21:53:07	other/website		https://nyaa.si/ : Torrent spécial anime
 2022-05-11T21:54:59	system/tools		https://syncthing.net/ : Outil de synchronisation de fichiers
 2022-05-16T21:58:35	system/tools		https://obsd.solutions/en/blog/2022/04/22/openbsd-upgrade-70-to-71/ : Upgrade OpenBSD 7.0 to 7.1
-2022-05-19T20:14:32	other/web		https://fr.fakenamegenerator.com : Générateur d'identité
-2022-05-19T20:15:37	other/web		https://www.thispersondoesnotexist.com/ : Générateur de photo de profil
-2022-05-26T22:39:55	system/tuto		https://www.romanzolotarev.com/git.html : Serveur git sur OpenBSD
-2022-05-26T22:48:38	other/web		https://www.nautiljon.com/ : Informations et Actualités sur les animes et mangas
+2022-05-19T20:14:32	other/website		https://fr.fakenamegenerator.com : Générateur d'identité
+2022-05-19T20:15:37	other/website		https://www.thispersondoesnotexist.com/ : Générateur de photo de profil
+2022-05-26T22:39:55	system/resources	https://www.romanzolotarev.com/git.html : Serveur git sur OpenBSD
+2022-05-26T22:48:38	other/website		https://www.nautiljon.com/ : Informations et Actualités sur les animes et mangas
 2022-05-26T22:57:19	cyber/tools		https://crackstation.net/ : Crackage de hash
 2022-05-26T23:02:28	cyber/tools		https://gchq.github.io/CyberChef/ : Application web pour l'encodage, le hachage et le chiffrement
 2022-05-27T22:39:13	system/article		https://www.everythingcli.org/find-exec-vs-find-xargs/ : Article sur la différence entre find exec et find | xargs
-2022-05-28T00:06:40	cyber/web		https://hashcat.net/wiki/doku.php?id=example_hashes : Hashcat hash mode
-2022-06-02T22:27:44	system/wiki		https://www.tubsta.com/2022/03/native-ipv6-with-openbsd-and-aussie-broadband/ : Exemple d'OpenBSD avec IPv6
-2022-06-02T22:37:28	system/wiki		https://www.kotfu.net/guides/redundant-openbsd-firewalls/ : Redondance de firewall avec OpenBSD
-2022-06-02T22:40:14	system/wiki		https://www.tubsta.com/2020/01/creating-a-chroot-in-openbsd/ : Creer un chroot sous OpenBSD
-2022-06-02T22:58:19	system/wiki		https://rexford.bio/w.p/2022/04/ : Suricata sur OpenBSD
+2022-05-28T00:06:40	cyber/resources		https://hashcat.net/wiki/doku.php?id=example_hashes : Hashcat hash mode
+2022-06-02T22:27:44	system/resources	https://www.tubsta.com/2022/03/native-ipv6-with-openbsd-and-aussie-broadband/ : Exemple d'OpenBSD avec IPv6
+2022-06-02T22:37:28	system/resources	https://www.kotfu.net/guides/redundant-openbsd-firewalls/ : Redondance de firewall avec OpenBSD
+2022-06-02T22:40:14	system/resources	https://www.tubsta.com/2020/01/creating-a-chroot-in-openbsd/ : Creer un chroot sous OpenBSD
+2022-06-02T22:58:19	system/resources	https://rexford.bio/w.p/2022/04/ : Suricata sur OpenBSD
 2022-06-02T23:07:32	network/tools		https://blog.ikuamike.io/posts/2021/netcat/ : Netcat le couteau suisse
-2022-08-16T22:02:07	network/wiki		https://unfriendlygrinch.info/posts/openbsd-routing-tables-and-routing-domains/ : OpenBSD rTables et rDomains
+2022-08-16T22:02:07	network/resources	https://unfriendlygrinch.info/posts/openbsd-routing-tables-and-routing-domains/ : OpenBSD rTables et rDomains
 2022-08-16T22:05:17	network/article		https://bsdrp.net/documentation/examples/forwarding_performance_lab_of_a_pc_engines_apu2#forwarding_performance_lab_of_a_pc_engines_apu_2 : FreeBSD Forwarding performance lab of a PC Engines
 2022-09-03T23:42:59	system/article		https://blog.garamotte.net/posts/2018/02/25/fr-passwords-management-with-pass.html : Article sur la gestion des mots de passe avec pass
 2022-11-07T21:57:36	system/article		https://vez.mrsk.me/freebsd-defaults.html : Article sur les défauts de FreeBSD et ces corrections partielles
-2022-11-10T22:21:23	system/article		https://r4ven.fr/blog/hardening-tls/ : Quelques notions autour du TLS
+2022-11-10T22:21:23	system/resources	https://r4ven.fr/blog/hardening-tls/ : Quelques notions autour du TLS
 2022-11-20T21:32:06	other/article		https://matsukai.org/how-to-make-a-short-shinai-yourself-and-be-able-to-practice-kendo-in-any-space-with-a-low-ceiling/ : Article pour créer un shinai de taille réduite
 2023-03-18T22:08:24	system/article		https://latacora.micro.blog/2019/07/16/the-pgp-problem.html : Les lacunes de PGP
 2023-03-18T22:10:30	system/article		https://soatok.blog/2022/05/19/guidance-for-choosing-an-elliptic-curve-signature-algorithm-in-2022/ : Conseils pour choisir un algorithme de signature de courbe elliptique en 2022
 2023-03-19T21:28:19	network/article		https://chown.me/blog/getting-my-own-asn : Obtenir son prope ASN
 2023-04-11T12:15:00	system/blog		https://arccompute.com/blog/why-computers-suck-and-how-openbsd-makes-them-marginally-better/ : Les différences de politiques de dev entre OS
-2023-04-11T13:03:57	system/web		https://sysadmin.libhunt.com/ : Liste d'outils pour l'auto hébergement
-2023-04-18T16:58:44	system/tuto		https://lafor.ge/nix-1/ : Premier pas avec Nix
+2023-04-11T13:03:57	system/website		https://sysadmin.libhunt.com/ : Liste d'outils pour l'auto hébergement
+2023-04-18T16:58:44	system/resources	https://lafor.ge/nix-1/ : Premier pas avec Nix
 2023-04-18T22:49:31	system/tools		https://age-encryption.org/ : Outil de chiffrement
 2023-05-02T12:28:59	other/article		https://thehistoryoftheweb.com/ : L'histoire du WEB
-2023-05-12T13:19:56	system/web		https://bsd-hardware.info/ : Compatibilité matérielle pour BSD
+2023-05-12T13:19:56	system/website		https://bsd-hardware.info/ : Compatibilité matérielle pour BSD
 2023-05-12T21:23:21	system/tools		https://bounca.org/index.html : Web interface pour la gestion de certificats auto-signé
 2023-05-12T21:23:29	system/tools		https://www.authelia.com/ : Portail SSO
-2023-05-21T22:29:18	network/wiki		https://www.22decembre.eu/fr/2016/05/28/openbsd-ipv6-router/ : OpenBSD et obtenir une @ IPv6
-2023-05-21T22:30:18	network/wiki		https://www.jwillikers.com/openbsd-ipv6 : OpenBSD et configuration IPv6
-2023-05-21T22:31:33	network/web		https://ipv6.he.net/certification/index.php : Certification IPv6
-2023-05-21T22:32:32	network/tuto		https://cisco.goffinet.org/ccna/ipv6/ : Tutoriel sur l'IPv6
-2023-05-21T22:36:31	network/tuto		https://lantian.pub/en/article/modify-website/dn42-experimental-network-2020.lantian/ : Tutoriel pour DN42
-2023-06-05T13:51:11	system/article		https://blog.cloudnativefolks.org/ebpf-for-cybersecurity-part-1 : Explication détaillée sur le fonctionnement de eBPF
+2023-05-21T22:29:18	network/resources	https://www.22decembre.eu/fr/2016/05/28/openbsd-ipv6-router/ : OpenBSD et obtenir une @ IPv6
+2023-05-21T22:30:18	network/resources	https://www.jwillikers.com/openbsd-ipv6 : OpenBSD et configuration IPv6
+2023-05-21T22:31:33	network/training	https://ipv6.he.net/certification/index.php : Certification IPv6
+2023-05-21T22:32:32	network/resources	https://cisco.goffinet.org/ccna/ipv6/ : Tutoriel sur l'IPv6
+2023-05-21T22:36:31	network/resources	https://lantian.pub/en/article/modify-website/dn42-experimental-network-2020.lantian/ : Tutoriel pour DN42
+2023-06-05T13:51:11	system/resources	https://blog.cloudnativefolks.org/ebpf-for-cybersecurity-part-1 : Explication détaillée sur le fonctionnement de eBPF
 2023-07-07T23:02:03	other/article		https://digdeeper.neocities.org/articles/email : Avis sur les différents services emails
-2023-07-19T21:42:13	storage/wiki		https://jro.io/truenas/openzfs/ : Excellent blog sur ZFS
+2023-07-19T21:42:13	storage/resources	https://jro.io/truenas/openzfs/ : Excellent blog sur ZFS
 2023-11-01T16:40:34	system/tools		https://mfsbsd.vx.sk/ : FreeBSD ramdisk
-2023-11-01T16:42:40	system/wiki		https://www.tumfatig.net/2023/using-openbsd-relayd8-as-an-application-layer-gateway/ : Utilisation de relayd d'OpenBSD
+2023-11-01T16:42:40	system/resources	https://www.tumfatig.net/2023/using-openbsd-relayd8-as-an-application-layer-gateway/ : Utilisation de relayd d'OpenBSD
 2023-11-01T16:44:12	system/tools		https://tomscii.sig7.se/umon/ : Minimal monitoring
-2023-11-01T16:46:35	storage/wiki		https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/ : Notes sur ZFS
+2023-11-01T16:46:35	storage/resources	https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/ : Notes sur ZFS
 2023-11-01T16:47:49	cyber/tools		https://cisofy.com/lynis/ : Outil pour auditer la sécurité sous Linux et Unix
-2023-11-01T16:49:08	network/tuto		https://rob-turner.net/post/vx-lan/ : VXlan avec wireguard
+2023-11-01T16:49:08	network/resources	https://rob-turner.net/post/vx-lan/ : VXlan avec wireguard
 2023-11-01T16:51:32	system/article		http://www.paritybit.ca/blog/migrating-from-nginx-to-openbsd-httpd-and-relayd : Migration nginx vers relayd + http OpenBSD
 2023-11-30T15:44:19	system/article		https://rot256.dev/post/pass/ : Article sur les problèmes de pass avec gpg
-2023-11-30T15:45:43	cyber/wiki		https://anonymousplanet.org/ : Guide sur l'anonymat
+2023-11-30T15:45:43	cyber/resources		https://anonymousplanet.org/ : Guide sur l'anonymat
 2023-11-30T15:48:39	network/blog		https://www.jasonvanpatten.com/ : Blog sur FreeBSD (Fib, BGP, Jail)
-2024-01-05T22:00:44	other/web		http://data.cquest.org/ : Données publiques
-2024-01-18T20:48:05	other/web		https://www.peppercarrot.com/fr/ : BD libre et open source
+2024-01-05T22:00:44	other/website		http://data.cquest.org/ : Données publiques
+2024-01-18T20:48:05	other/website		https://www.peppercarrot.com/fr/ : BD libre et open source
 2024-01-18T20:53:08	system/tools		https://forgejo.org/ : Fork de Gitea
-2024-01-22T23:00:30	other/web		https://sdf.org/ : SDF Public Access UNIX System
+2024-01-22T23:00:30	other/website		https://sdf.org/ : SDF Public Access UNIX System
 2024-02-20T21:20:30	other/article		https://www.abortretry.fail/p/the-berkley-software-distribution : Histoire de BSD
 2024-03-31T22:12:26	system/tools		https://bhyve.npulse.net/ : WebAdmin pour Bhyve
 2024-04-29T22:08:33	system/article		https://blog.levassb.ovh/post/zfs/ : Article ZFS pour un NAS
-2024-04-30T08:08:01	system/article		https://techno.firenode.net/article.sh?id=d2016080413170150234 : Exemple de mise en place de ZFS
-2024-08-30T23:49:11	system/article		https://www.linuxembedded.fr/2020/11/namespaces-la-brique-de-base-des-conteneurs : Explication detaillees des namespaces
-2024-08-30T23:50:31	system/article		https://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html : Explorer les namespaces
+2024-04-30T08:08:01	system/resources	https://techno.firenode.net/article.sh?id=d2016080413170150234 : Exemple de mise en place de ZFS
+2024-08-30T23:49:11	system/resources	https://www.linuxembedded.fr/2020/11/namespaces-la-brique-de-base-des-conteneurs : Explication detaillees des namespaces
+2024-08-30T23:50:31	system/resources	https://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html : Explorer les namespaces
 2024-08-30T23:55:16	system/article		https://email-comparison.as93.net/ : Comparaison des hebergeurs email
-2024-10-23T22:39:36	system/article		https://snork.ca/posts/2023-01-30-nftables-and-sets/ : nftables, iptables et sets
+2024-10-23T22:39:36	system/resources	https://snork.ca/posts/2023-01-30-nftables-and-sets/ : nftables, iptables et sets
 2024-11-01T00:56:57	network/tools		https://www.bisdn.de/products/bisdn-linux/ : Un NOS Open Source
+2025-08-04T09:59:47	network/resources	https://www.brindereseau.fr/ : Plusieurs articles très avancés sur du réseaux
