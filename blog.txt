@@ -108,4 +108,8 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2024-10-23T22:39:36	system/resources	https://snork.ca/posts/2023-01-30-nftables-and-sets/ : nftables, iptables et sets
 2024-11-01T00:56:57	network/tools		https://www.bisdn.de/products/bisdn-linux/ : Un NOS Open Source
 2025-08-04T09:59:47	network/resources	https://www.brindereseau.fr/ : Plusieurs articles très avancés sur du réseaux
-2025-08-04T10:41:19	network/tools		https://containerlab.dev/ : 
+2025-08-04T10:41:19	network/tools		https://containerlab.dev/ : Alternative à GNS3
+2025-08-05T13:38:27	system/resources	https://blog.victor-hery.com/2024/02/ssh-openssl-haproxy.html : SSH over OpenSSL over HAProxy
+2025-08-05T13:39:53	system/resources	https://dryusdan.space/https-et-ssh-sont-dans-un-bateau-nomme-haproxy : SSH over HTTPS Upgrade
+2025-08-05T14:57:51	system/tools		https://why.kunai.rocks/ : Outil de surveillance avancée et de threat-hunting Linux
+2025-08-05T14:58:53	system/resources	https://thermalcircle.de/doku.php?id=blog:linux:routing_decisions_in_the_linux_kernel_1_lookup_packet_flow : Fonctionnement des décisions de routing sur Linux
