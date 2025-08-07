@@ -113,3 +113,6 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2025-08-05T13:39:53	system/resources	https://dryusdan.space/https-et-ssh-sont-dans-un-bateau-nomme-haproxy : SSH over HTTPS Upgrade
 2025-08-05T14:57:51	system/tools		https://why.kunai.rocks/ : Outil de surveillance avancée et de threat-hunting Linux
 2025-08-05T14:58:53	system/resources	https://thermalcircle.de/doku.php?id=blog:linux:routing_decisions_in_the_linux_kernel_1_lookup_packet_flow : Fonctionnement des décisions de routing sur Linux
+2025-08-07T10:01:20	system/tools		https://plakar.io/ : Outil de sauvegarde, alternative à restic
+2025-08-07T10:02:20	network/tools		https://www.keepalived.org/ : VIP sous Linux
+2025-08-07T10:06:01	cyber/webzine		https://www.zataz.com/ : Média orienté sur la cybersecu avec une forte appétence pour la délinquance informatique
