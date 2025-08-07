@@ -116,3 +116,10 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2025-08-07T10:01:20	system/tools		https://plakar.io/ : Outil de sauvegarde, alternative à restic
 2025-08-07T10:02:20	network/tools		https://www.keepalived.org/ : VIP sous Linux
 2025-08-07T10:06:01	cyber/webzine		https://www.zataz.com/ : Média orienté sur la cybersecu avec une forte appétence pour la délinquance informatique
+2025-08-07T14:53:51	system/tools		https://voxpupuli.org/ : Version opensource de puppet
+2025-08-08T01:18:20	cyber/training		https://ozint.eu/ : Plateforme dédiée à l'OSINT
+2025-08-08T01:18:57	other/article		https://www.abortretry.fail/p/the-berkley-software-distribution : L'histoire de BSD
+2025-08-08T01:19:47	network/tools		https://www.openbmp.org/ : Outil de surveillance des liens BGP
+2025-08-08T01:20:23	other/podcast		https://pwned.substack.com/ : Podcast sur les cybercrimes
+2025-08-08T01:22:04	system/resources	https://sdz.tdct.org/sdz/en-profondeur-avec-l-assembleur.html#ProgrammerC039estquoi : Tutoriel sur l'assembleur en profondeur
+2025-08-08T01:23:13	system/article		https://www.oyd.org.tr/en/articles/defense-of-gpg/ : Article pour défendre GPG
