@@ -123,3 +123,6 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2025-08-08T01:20:23	other/podcast		https://pwned.substack.com/ : Podcast sur les cybercrimes
 2025-08-08T01:22:04	system/resources	https://sdz.tdct.org/sdz/en-profondeur-avec-l-assembleur.html#ProgrammerC039estquoi : Tutoriel sur l'assembleur en profondeur
 2025-08-08T01:23:13	system/article		https://www.oyd.org.tr/en/articles/defense-of-gpg/ : Article pour défendre GPG
+2025-08-18T13:55:34	system/resources	https://roguesecurity.dev/blog/systemd-hardening : Hardening systemd
+2025-08-22T11:14:09	other/website		https://theyseeyourphotos.com/ : Utilise l'API Google pour déterminer ce qu'on peut déduire d'une photo
+2025-08-22T11:16:14	system/tools		https://hedgedoc.org/ : Editeur Web de markdown, self hosted et open-source
