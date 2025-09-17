@@ -126,3 +126,4 @@ DATE                    CATEGORY/TYPE           URL : DESCRIPTION
 2025-08-18T13:55:34	system/resources	https://roguesecurity.dev/blog/systemd-hardening : Hardening systemd
 2025-08-22T11:14:09	other/website		https://theyseeyourphotos.com/ : Utilise l'API Google pour déterminer ce qu'on peut déduire d'une photo
 2025-08-22T11:16:14	system/tools		https://hedgedoc.org/ : Editeur Web de markdown, self hosted et open-source
+2025-09-17T13:48:40	other/website		https://e-mail.wtf/ : Quizz pour vérifier notre connaissance d'une addesse email valide ou non valide
